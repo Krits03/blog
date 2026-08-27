@@ -7,7 +7,7 @@ const basicConfig = {
 	description: 'wkr的个人博客，分享技术，一名开源爱好者.',
 	author: {
 		name: 'wkr',
-		avatar: '/public/site-res/avatar.jpg',
+		avatar: 'https://site.wkr-dev.top/site-res/avatar.jpg',
 		email: 'wkk-dev@qq.com',
 		homepage: 'https://www.github.com/Krits03',
 	},
@@ -16,7 +16,7 @@ const basicConfig = {
 		name: '署名-相同方式共享 4.0 国际',
 		url: 'https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans',
 	},
-	favicon: '/public/site-res/avatar.jpg',
+	favicon: 'https://site.wkr-dev.top/site-res/avatar-code.jpg',
 	language: 'zh-CN',
 	timeEstablished: '2025-06-13',
 	timeZone: 'Asia/Shanghai',
