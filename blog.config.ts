@@ -6,21 +6,21 @@ const basicConfig = {
 	// 长 description 利好于 SEO
 	description: '纸鹿本鹿的个人博客，分享技术与生活。“折腾不止，摸鱼生活——摸门🙏🏻”。纸鹿是一名开源爱好者，结识了许多志同道合的朋友。这个博客记录了他在生活和技术学习中的点滴经历，充满启发与思考。网站界面简洁美观，内容丰富实用，人气互动活跃，涵盖了编程、生活、学习等多个领域，为读者提供了卓越的阅读体验。',
 	author: {
-		name: '纸鹿本鹿',
-		avatar: 'https://www.zhilu.site/api/avatar.png',
-		email: 'hi@zhilu.cyou',
-		homepage: 'https://www.zhilu.site/',
+		name: 'wkr',
+		avatar: '/public/site-res/avatar.jpg',
+		email: 'wkk-dev@qq.com',
+		homepage: 'https://www.github.com/Krits03',
 	},
 	copyright: {
-		abbr: 'CC BY-NC-SA 4.0',
-		name: '署名-非商业性使用-相同方式共享 4.0 国际',
-		url: 'https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans',
+		abbr: 'CC BY-SA 4.0',
+		name: '署名-相同方式共享 4.0 国际',
+		url: 'https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hans',
 	},
-	favicon: 'https://www.zhilu.site/api/icon.png',
+	favicon: '/public/site-res/avatar.jpg',
 	language: 'zh-CN',
-	timeEstablished: '2019-07-19',
+	timeEstablished: '2025-06-13',
 	timeZone: 'Asia/Shanghai',
-	url: 'https://blog.zhilu.site/',
+	url: 'https://site.wkr-dev.top/',
 	defaultCategory: '未分类',
 }
 
@@ -100,7 +100,7 @@ export const myFeed: FeedEntry = {
 	avatar: blogConfig.author.avatar,
 	archs: ['Nuxt', 'Vercel'],
 	date: blogConfig.timeEstablished,
-	comment: '这是我自己',
+	comment: 'Coding...',
 }
 
 export default blogConfig
