@@ -1,10 +1,10 @@
 import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
-	title: 'Kr.栈',
+	title: 'Kr.Zhan',
 	subtitle: 'KKrr233',
 	// 长 description 利好于 SEO
-	description: 'wkr的个人博客，分享技术，一名开源爱好者.',
+	description: 'wkr的个人博客，分享知识，一名开源爱好者.',
 	author: {
 		name: 'wkr',
 		avatar: 'https://site.wkr-dev.top/site-res/avatar.jpg',
@@ -91,7 +91,7 @@ const blogConfig = {
 /** 用于生成 OPML 和友链页面配置 */
 export const myFeed: FeedEntry = {
 	author: blogConfig.author.name,
-	sitenick: '摸鱼处',
+	sitenick: 'Kr.zhan',
 	title: blogConfig.title,
 	desc: blogConfig.subtitle || blogConfig.description,
 	link: blogConfig.url,
