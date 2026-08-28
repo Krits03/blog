@@ -8,7 +8,7 @@ const basicConfig = {
 	author: {
 		name: 'wkr',
 		avatar: 'https://site.wkr-dev.top/site-res/avatar.jpg',
-		email: 'wkk-dev@qq.com',
+		email: 'wkk-dev@outlook.com',
 		homepage: 'https://www.github.com/Krits03',
 	},
 	copyright: {
