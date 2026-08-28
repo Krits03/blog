@@ -1,21 +1,11 @@
 ---
 title: 主题
-date: 2024-08-04 20:27:59
+date: 2026-02-14 20:27:59
 updated: 2026-02-03 02:50:11
 hideInfo: true
 
 aside: [toc, meta-aside-github]
 ---
-
-::meta-aside-github{title="项目仓库"}
-:::link-card
----
-title: L33Z22L11/blog-v3
-description: My blog, powered by Nuxt 4 & Nuxt Content v3. 纸鹿摸鱼处，分享技术与生活。
-link: https://github.com/L33Z22L11/blog-v3
----
-:::
-::
 
 ## 主题特性
 
@@ -66,7 +56,7 @@ class: gradient-card active
 **使用必读**<br>👉👉🎨
 ::
 
-### 开发过程
+### 开发过程(引用原作者文章)
 
 ::link-banner
 ---
