@@ -15,17 +15,8 @@ recommend: 20
 
 ::link-banner
 ---
-banner: https://assets.zhilu.cyou/cover2/windows-setup-guide.jpg
-title: Windows 安装指南
-description: 使用 Ventoy、微 PE、Dism++ 安装系统，绕过账户限制并激活 Office 与 Windows，合理分区布局使数据安全有序。
-link: /2023/windows-setup-guide
----
-::
-
-::link-banner
----
 banner: https://assets.zhilu.cyou/cover3/archlinux-boot-repair.jpg
-link: /2024/archlinux-boot-repair
+link: /2026/archlinux-boot-repair
 title: Arch Linux 启动引导修复
 description: 可以修复绝大多数 Arch Linux 无法启动的问题。
 ---

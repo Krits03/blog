@@ -10,6 +10,8 @@ tags: [Arch Linux, 引导修复, 故障排查]
 references:
   - title: systemd-boot - Arch Linux 中文维基
     link: https://wiki.archlinuxcn.org/wiki/Systemd-boot
+  - title: Shorin Arch Guide - 适合新手的Arch Linux教程
+    link: https://github.com/SHORiN-KiWATA/Shorin-ArchLinux-Guide
 ---
 
 ## 制作启动盘、进入并联网
