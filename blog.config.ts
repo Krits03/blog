@@ -18,7 +18,7 @@ const basicConfig = {
 	},
 	favicon: 'https://site.wkr-dev.top/site-res/avatar-code.jpg',
 	language: 'zh-CN',
-	timeEstablished: '2025-06-13',
+	timeEstablished: '2026-01-01',
 	timeZone: 'Asia/Shanghai',
 	url: 'https://site.wkr-dev.top/',
 	defaultCategory: '未分类',
@@ -76,7 +76,7 @@ const blogConfig = {
 		// 自己部署的 Umami 统计服务
 		{ 'src': 'https://zhi.zhilu.site/zhi.js', 'data-website-id': 'a1997c81-a42b-46f6-8d1d-8fbd67a8ef41', 'defer': true },
 		// 自己网站的 Cloudflare Insights 统计服务
-		{ 'src': 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "97a4fe32ed8240ac8284e9bffaf03962"}', 'defer': true },
+		{ 'src': 'https://static.cloudflareinsights.com/beacon.min.js', 'data-cf-beacon': '{"token": "4ae7cffe5f8246079a0890511f066c21"}', 'defer': true },
 		// Twikoo 评论系统
 		{ src: 'https://cdnjs.snrat.com/ajax/libs/twikoo/1.7.20/twikoo.min.js', defer: true },
 	],
