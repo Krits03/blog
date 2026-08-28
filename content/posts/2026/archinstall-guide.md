@@ -216,6 +216,6 @@ Ventoy 需要加载自定义证书文件才能在启用“安全启动”特性�
 ---
 banner: https://assets.zhilu.cyou/cover3/archlinux-configure.jpg
 title: Arch Linux 初步配置
-link: /2023/archlinux-configure
+link: /2026/archlinux-configure
 ---
 ::
