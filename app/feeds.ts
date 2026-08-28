@@ -23,7 +23,7 @@ export default [
 				avatar: 'https://weavatar.com/avatar/47c0f2e82b76d9b10eb3023df9e02e4e3fdbeaf5b74b842063f207971e7fbe7b?s=160',
 				archs: ['Nuxt', 'Astro','Vercel'],
 				date: '2026-06-06',
-				comment: '开发，技术，生活，杂谈',
+				comment: '主题框架作者，开发，技术，生活，杂谈',
 			},
 		],
 	},
