@@ -1,8 +1,8 @@
 ---
 title: Arch Linux 启动引导修复
 description: 可以修复绝大多数 Arch Linux 无法启动的问题。
-date: 2026-07-01 23:14:39
-updated: 2026-07-04 22:30:59
+date: 2026-07-30 23:14:39
+updated: 2026-08-01 22:30:59
 image: https://assets.zhilu.cyou/cover3/archlinux-boot-repair.jpg
 categories: [技术]
 tags: [Arch Linux, 引导修复, 故障排查]
