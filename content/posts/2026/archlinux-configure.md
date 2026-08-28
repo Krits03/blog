@@ -2,7 +2,7 @@
 title: Arch Linux 初步配置
 description: 在 Arch Linux 系统上安装配置必备软件，如蓝牙、Yay、Zsh、输入法等。
 date: 2026-07-24 09:31:15
-updated: 2026-7-27 08:23:15
+updated: 2026-07-27 10:23:15
 image: https://assets.zhilu.cyou/cover3/archlinux-configure.jpg
 categories: [技术]
 tags: [Arch Linux, 系统配置, 教程]
