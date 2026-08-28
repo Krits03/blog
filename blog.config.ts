@@ -83,8 +83,8 @@ const blogConfig = {
 
 	/** 自己部署的 Twikoo 服务 */
 	twikoo: {
-		envId: 'http://twikoo.site.wkr-dev.top/.netlify/functions/twikoo/',
-		preload: 'http://twikoo.site.wkr-dev.top/.netlify/functions/twikoo/',
+		envId: 'https://twikoo.site.wkr-dev.top/.netlify/functions/twikoo/',
+		preload: 'https://twikoo.site.wkr-dev.top/.netlify/functions/twikoo/',
 	},
 }
 
