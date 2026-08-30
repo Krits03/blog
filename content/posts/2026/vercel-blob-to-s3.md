@@ -79,7 +79,7 @@ Vercel Blob (存储后端)
 #tab1
 基于 Next.js 15 App Router 的 Route Handler 实现，通过官方 `@vercel/blob` SDK 访问存储，签名校验使用 `node:crypto` 完成 HMAC 计算，并以 `timingSafeEqual` 进行时序安全的比较。首页内置拖拽上传页面，可用于日常手动传图。
 
-限制：Serverless 存在冷启动，请求体大小上限为默认的 4.5MB。
+限制：Serverless 存在冷启动，请求体大小上限为默认的 4.5MB(推荐设置为4MB)。
 
 #tab2
 基于 Hono 4 运行于 Cloudflare Workers。Worker 环境无法加载 Node SDK，改为直接调用 Vercel Blob REST API；加密部分换用 Web Crypto API，并手动实现了基于 XOR 累积的常量时间比较以替代 `timingSafeEqual`。
