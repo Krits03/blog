@@ -65,6 +65,6 @@ const expand = ref(false)
 }
 
 .dl-group :deep(.img-store-icon) {
-	margin-left: 2px;
+	margin-left: 4px;
 }
 </style>
