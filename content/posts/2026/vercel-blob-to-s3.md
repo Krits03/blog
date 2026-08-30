@@ -3,7 +3,7 @@ title: 基于 Vercel Blob 构建 S3 兼容的对象存储网关
 description: 将Vercel Blob包装成兼容s3对象存储
 date: 2026-08-30 20:11:00
 updated: 2026-08-30 20:13:22
-image: https://r2.api.kr033.top/site/post/vercel-blob-to-s3/banner.jpg
+image: https://vercel-blob.api.kr033.top/api/download/site/post/vercel-blob-to-s3/20260830/1788127625440-1000004294.jpg
 categories: [技术]
 aside: [toc]
 tags: [Twikoo, Vercel, S3, 图床, R2]
