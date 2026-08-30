@@ -1,6 +1,7 @@
 ---
 title: 基于 Vercel Blob 构建 S3 兼容的对象存储网关
 date: 2026-08-30 20:30:00
+updated: 2026-08-30 20:50:22
 categories: [技术]
 aside: [toc]
 tags: [Twikoo, Vercel, S3, 图床, R2]
@@ -151,3 +152,5 @@ twikoo.init({
 仓库中的 `vercel/DEPLOY.md` 与 `cf/DEPLOY.md` 包含从零开始的部署步骤、环境变量配置与常见问题排查。如有类似需求——不限于 Twikoo，任何需要在浏览器端使用 Vercel Blob 的场景——欢迎使用或提交 issue。
 
 本站评论图床已切换，欢迎在评论区验证。
+
+这应该是开学前的最后一篇了awa.
