@@ -18,7 +18,7 @@ const basicConfig = {
 	},
 	favicon: 'https://site.wkr-dev.top/site-res/avatar-code.jpg',
 	language: 'zh-CN',
-	timeEstablished: '2026-01-01',
+	timeEstablished: '2026-03-07',
 	timeZone: 'Asia/Shanghai',
 	url: 'https://site.wkr-dev.top/',
 	defaultCategory: '未分类',
