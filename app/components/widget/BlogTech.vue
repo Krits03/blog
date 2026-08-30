@@ -63,8 +63,4 @@ const expand = ref(false)
 	height: 1.2em;
 	vertical-align: sub;
 }
-
-.dl-group :deep(.img-store-icon) {
-	margin-left: 4px;
-}
 </style>
