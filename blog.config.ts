@@ -1,7 +1,7 @@
 import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
-	title: 'Kr.Zhan',
+	title: 'Kr.栈',
 	subtitle: 'KKrr233',
 	// 长 description 利好于 SEO
 	description: 'wkr的个人博客，分享知识，一名开源爱好者.',
